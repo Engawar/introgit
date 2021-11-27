@@ -8,3 +8,5 @@ git commit
 
 ファイル削除した場合のステージング
 git rm
+
+git diff
