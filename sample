@@ -5,3 +5,6 @@ version 1.0
 
 git add
 git commit
+
+ファイル削除した場合のステージング
+git rm
